@@ -23,7 +23,7 @@ import TwoColumns from "./TwoColumns.vue";
           Mit unseren Kompetenzvorlagen legst du sofort los. Du kannst sie
           einfach übernehmen oder individuell erweitern und anpassen – und das
           für dich oder zentral für deine gesamte Schule. So kannst dich wieder
-          auf das Wesentliche konzentrieren: deine Schülerinnen und Schüler.
+          auf das Wesentliche konzentrieren: Deine Schülerinnen und Schüler.
         </Paragraph>
       </div>
     </template>

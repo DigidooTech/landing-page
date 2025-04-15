@@ -48,13 +48,14 @@ import TwoColumns from "./TwoColumns.vue";
         <h2
           class="text-[28px] lg:text-[40px] font-semibold lg:mb-4 text-primary"
         >
-          So individuell<br />wie dein<br />Unterricht
+          So individuell wie<br />dein Unterricht
         </h2>
         <Paragraph>
           Mit Digidoo bestimmst du selbst, wie du Leistungen festhältst,
-          darstellst und welchen Einfluss sie auf die Endbeurteilung haben.
-          Mehrere Lehrerinnen in einer Klasse, oder individuelle Kompetenzen für
-          einzelne Schüler? Kein Problem mit Digidoo.
+          darstellst und welchen Einfluss sie auf die Endbeurteilung haben. Du
+          unterrichtest mit mehreren Lehrerinnen und Lehrer in einer Klasse,
+          oder benötigst individuelle Kompetenzen für einzelne Schüler? Kein
+          Problem mit Digidoo!
         </Paragraph>
       </div>
     </template>

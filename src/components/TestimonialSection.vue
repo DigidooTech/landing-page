@@ -7,7 +7,7 @@
           class="text-center text-[18px] lg:text-[22px] text-title font-normal"
         >
           "Ich konnte innerhalb weniger Minuten los starten.<br />Super, wie
-          einfach Digidoo gestaltet ist.""
+          einfach Digidoo gestaltet ist."
         </p>
         <span class="font-semibold">– Jesica Rittsteig, VS Hönigtal</span>
       </div>

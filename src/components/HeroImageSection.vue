@@ -20,7 +20,7 @@ import Button from "./Button.vue";
         <h1
           class="text-white text-2xl md:text-4xl lg:text-5xl font-semibold mb-4"
         >
-          Einfach<br />Lernfortschritt<br />festhalten.
+          Einfach<br />Lernfortschritte<br />festhalten.
         </h1>
         <div class="w-fit">
           <Button href="mailto:info@digidoo.com">
