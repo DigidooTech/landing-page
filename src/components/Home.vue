@@ -12,8 +12,10 @@ import Text from "./TextSection.vue";
 
 <template>
   <HeroImage class="mt-10 lg:mt-16" />
-  <Text class="mt-10 lg:mt-16"
-    text="Du willst den Lernfortschritt deiner Schülerinnen und Schüler schnell und einfach festhalten – und Papier und Excel sind auf Dauer keine Lösung? Dann ist Digidoo genau das Richtige für dich!" />
+  <Text
+    class="mt-10 lg:mt-16"
+    text="Du willst den Lernfortschritt deiner Schülerinnen und Schüler schnell und einfach festhalten – und Papier und Excel sind auf Dauer keine Lösung? Dann ist Digidoo genau das Richtige für dich!"
+  />
   <FeatureSelection class="mt-10 lg:mt-16 overflow-hidden" />
   <IconSection class="mt-10 lg:mt-16" />
   <CompetenceSection class="mt-10 lg:mt-16" />

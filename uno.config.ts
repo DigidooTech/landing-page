@@ -55,7 +55,8 @@ export default defineConfig({
       "px-md py-[12px] last-of-type:rounded-r-lg first-of-type:rounded-l-lg",
     "shadow-popup":
       "shadow-[0_16px_64px_0_rgba(32,0,77,0.15),0_0_1px_0_rgba(0,0,0,0.25)]",
-    "shadow-hero": "shadow-[0_0_1px_0_rgba(32,0,77,0.15),0_16px_64px_0_rgba(32,0,77,0.15)]",
+    "shadow-hero":
+      "shadow-[0_0_1px_0_rgba(32,0,77,0.15),0_16px_64px_0_rgba(32,0,77,0.15)]",
   },
   theme: {
     animation: {

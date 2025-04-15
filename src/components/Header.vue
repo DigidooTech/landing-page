@@ -5,7 +5,9 @@ import Button from "./Button.vue";
 </script>
 
 <template>
-  <section class="max-w-[1104px] mx-auto px-6 lg:px-[64px] flex justify-between items-center gap-md">
+  <section
+    class="max-w-[1104px] mx-auto px-6 lg:px-[64px] flex justify-between items-center gap-md"
+  >
     <a href="/">
       <DigidooLogo class="w-full m-w-[145px]" />
     </a>

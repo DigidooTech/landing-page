@@ -26,17 +26,27 @@ const features = [
   <TwoColumns>
     <template #left>
       <div
-        class="relative justify-center lg:justify-start rounded-[64px] bg-[#D3F0FF] aspect-10/9 w-full overflow-visible">
-        <img src="/macbook-digidoo.png" alt="Laptop Prototype"
-          class="w-full max-w-[120%] absolute top-1/2 left-1/2 -translate-y-1/5 -translate-x-1/5 scale-125" />
+        class="relative justify-center lg:justify-start rounded-[64px] bg-[#D3F0FF] aspect-10/9 w-full overflow-visible"
+      >
+        <img
+          src="/macbook-digidoo.png"
+          alt="Laptop Prototype"
+          class="w-full max-w-[120%] absolute top-1/2 left-1/2 -translate-y-1/5 -translate-x-1/5 scale-125"
+        />
       </div>
     </template>
     <template #right>
       <div class="py-8 lg:p-8">
-        <h2 class="text-title font-semibold mb-md lg:mb-[40px] text-primary text-[18px] lg:text-[24px]">Mit Digidoo
-          kannst du...</h2>
+        <h2
+          class="text-title font-semibold mb-md lg:mb-[40px] text-primary text-[18px] lg:text-[24px]"
+        >
+          Mit Digidoo kannst du...
+        </h2>
         <ul class="flex flex-col gap-4">
-          <li v-for="feature in features" class="flex items-start gap-[12px] text-[15px] lg:text-[17px] text-primary">
+          <li
+            v-for="feature in features"
+            class="flex items-start gap-[12px] text-[15px] lg:text-[17px] text-primary"
+          >
             <CheckCircleIcon class="size-icon-md shrink-0" />
             <span>{{ feature.title }}</span>
           </li>
