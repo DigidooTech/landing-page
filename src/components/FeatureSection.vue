@@ -31,7 +31,7 @@ const features = [
         <img
           src="/macbook-digidoo.png"
           alt="Laptop Prototype"
-          class="w-full max-w-[120%] absolute top-1/2 left-1/2 -translate-y-1/5 -translate-x-1/5 scale-125"
+          class="max-w-none absolute h-full left-[10%]"
         />
       </div>
     </template>
