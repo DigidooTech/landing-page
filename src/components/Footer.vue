@@ -25,6 +25,7 @@ const { theme = "home" } = defineProps<{
         >Copyright 2025 Digidoo GmbH •
         <a href="/impressum" class="hover:underline">Impressum</a> •
         <a href="/datenschutz" class="hover:underline">Datenschutz</a> •
+        <a href="/agb" class="hover:underline">AGB</a> •
         <a href="mailto:info@digidoo.com" class="hover:underline"
           >Kontakt</a
         ></span
