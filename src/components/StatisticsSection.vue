@@ -5,17 +5,16 @@ import TwoColumns from "./TwoColumns.vue";
 </script>
 
 <template>
-  <TwoColumns>
+  <TwoColumns reverse-on-mobile>
     <template #left>
       <div
-        class="lg:px-16 py-8 flex flex-col justify-center items-start gap-md"
+        class="mt-4 lg-mt-0 lg:px-16 py-8 flex flex-col justify-center items-start gap-md"
       >
-        <span
-          class="text-[18px] lg:text-[22px] font-medium text-tint text-title"
+        <span class="text-[22px] font-medium text-tint text-title"
           >Analyse & Berichte</span
         >
         <h2
-          class="text-[28px] lg:text-[40px] font-semibold lg:mb-4 text-primary"
+          class="text-[40px] leading-[120%] font-semibold lg:mb-4 text-primary"
         >
           Alle Fortschritte<br />klar im Blick
         </h2>

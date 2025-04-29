@@ -36,16 +36,16 @@ const features = [
       </div>
     </template>
     <template #right>
-      <div class="py-8 lg:p-8">
+      <div class="py-8 lg:p-8 mt-8 lg:mt-0">
         <h2
-          class="text-title font-semibold mb-md lg:mb-[40px] text-primary text-[18px] lg:text-[24px]"
+          class="text-title font-semibold mb-xxl lg:mb-[40px] text-primary text-[24px] leading-[130%]"
         >
           Mit Digidoo kannst du...
         </h2>
         <ul class="flex flex-col gap-4">
           <li
             v-for="feature in features"
-            class="flex items-start gap-[12px] text-[15px] lg:text-[17px] text-primary"
+            class="flex items-start gap-[12px] text-[17px] leading-[160%] text-primary"
           >
             <CheckCircleIcon class="size-icon-md shrink-0" />
             <span>{{ feature.title }}</span>

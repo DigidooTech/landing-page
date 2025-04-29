@@ -16,9 +16,7 @@ import ThreeColumns from "./ThreeColumns.vue";
           />
         </template>
         <template #text>
-          <h3
-            class="text-[16px] lg:text-[22px] text-title text-center font-medium"
-          >
+          <h3 class="text-[22px] text-title md:text-center font-medium">
             Lege sofort los
           </h3>
         </template>
@@ -32,9 +30,7 @@ import ThreeColumns from "./ThreeColumns.vue";
           />
         </template>
         <template #text>
-          <h3
-            class="text-[16px] lg:text-[22px] text-title text-center font-medium"
-          >
+          <h3 class="text-[22px] text-title md:text-center font-medium">
             So individuell<br />wie dein Unterricht
           </h3>
         </template>
@@ -48,9 +44,7 @@ import ThreeColumns from "./ThreeColumns.vue";
           />
         </template>
         <template #text>
-          <h3
-            class="text-[16px] lg:text-[22px] text-title text-center font-medium"
-          >
+          <h3 class="text-[22px] text-title md:text-center font-medium">
             Alle Fortschritte<br />klar im Blick
           </h3>
         </template>

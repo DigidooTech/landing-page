@@ -1,21 +1,17 @@
 <script lang="ts" setup>
-import CheckCircleIcon from "../assets/icons/CheckCircleIcon.vue";
 import Paragraph from "./Paragraph.vue";
 import TwoColumns from "./TwoColumns.vue";
 </script>
 
 <template>
-  <TwoColumns>
+  <TwoColumns reverse-on-mobile>
     <template #left>
       <div
-        class="lg:px-16 py-8 flex flex-col justify-center items-start gap-md"
+        class="mt-4 lg:px-16 py-8 flex flex-col justify-center items-start gap-md"
       >
-        <span
-          class="text-[18px] lg:text-[22px] font-medium text-tint text-title"
-          >Kompetenzen</span
-        >
+        <span class="font-medium text-tint text-title">Kompetenzen</span>
         <h2
-          class="text-[28px] lg:text-[40px] font-semibold lg:mb-4 text-primary"
+          class="text-[40px] leading-[120%] font-semibold lg:mb-4 text-primary"
         >
           Lege sofort los
         </h2>

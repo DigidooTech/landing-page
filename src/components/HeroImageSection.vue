@@ -18,7 +18,7 @@ import Button from "./Button.vue";
     >
       <div class="flex flex-col gap-4">
         <h1
-          class="text-white text-2xl md:text-4xl lg:text-5xl font-semibold mb-4"
+          class="text-white text-[28px] leading-[110%] md:text-4xl lg:text-5xl font-semibold mb-4"
         >
           Einfach<br />Lernfortschritte<br />festhalten.
         </h1>
