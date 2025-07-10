@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bartelme;Wolfgang;;;
+FN:Wolfgang Bartelme
+ORG:Digidoo
+TITLE:Product Development & Design
+TEL;TYPE=work,voice:+43 699 10630067
+EMAIL:wolfgang.bartelme@digidoo.com
+URL:https://www.digidoo.com
+ADR;TYPE=work:;;Griesgasse 1;Graz;;8020;Austria
+PHOTO;VALUE=URI:https://www.digidoo.com/wolfgang_bartelme.png
+REV:20250710T120000Z
+END:VCARD
