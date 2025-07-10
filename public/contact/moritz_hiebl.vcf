@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hiebl;Moritz;;;
+FN:Moritz Hiebl
+ORG:Digidoo
+TITLE:CEO
+TEL;TYPE=work,voice:+43 664 3122855
+EMAIL:moritz.hiebl@digidoo.com
+URL:https://www.digidoo.com
+ADR;TYPE=work:;;Griesgasse 1;Graz;;8020;Austria
+PHOTO;VALUE=URI:https://www.digidoo.com/contact/moritz_hiebl.jpg
+REV:20250710T120000Z
+END:VCARD
